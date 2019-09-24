@@ -5,15 +5,15 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 /**
- * 多例的鸡崽子
+ * 多例的鸡蛋
  * 2019/9/23 16:36
  *
  * @author klh
  * @version 1.0
  */
 @Component
-@Scope("singleton")
+@Scope("prototype")
 @NoArgsConstructor
-public class ProtoChickson {
+public class ProtoEgg {
 
 }

@@ -1,5 +1,5 @@
 /**
- * 测试Spring方法注入
+ * 测试Spring 单例Bean持有多例Bean的情况
  * 2019/9/23 16:31
  *
  * @author klh
